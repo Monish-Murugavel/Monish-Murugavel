@@ -25,16 +25,11 @@ I’m focused on becoming a strong developer by building real-world projects, im
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-**Languages:**  
-C++ | Python | Java  
-
-**Web:**  
-HTML | CSS | JavaScript  
-
-**Tools:**  
-Git | GitHub | VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode,eclipse,idea,matlab&perline=6" />
+</p>
 
 ---
 
