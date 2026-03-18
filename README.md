@@ -1,4 +1,3 @@
-## Hi there 👋
 # 🚀 Hi 👋 I'm Monish  Murugavel
 
 💻 Computer Science Student | Learning AI & Development | Building Projects
