@@ -1,74 +1,75 @@
-# 🚀 Hi 👋 I'm Monish  Murugavel
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Monish+Murugavel;Aspiring+Software+Developer;Learning+AI+%26+Full+Stack;Building+Projects+Everyday+🚀" />
+</p>
 
-💻 Computer Science Student | Learning AI & Development | Building Projects
+<h1 align="center">Hi 👋, I'm Monish Murugavel</h1>
+<h3 align="center">💻 Computer Science Student | 🚀 Aspiring Developer | 🤖 Learning AI</h3>
 
-I’m focused on becoming a strong developer by building real-world projects, improving problem-solving skills, and staying consistent every day.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Monish-Murugavel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🔍 Currently Learning
+## 🚀 About Me
+- 🎯 Focused on becoming a strong developer through consistency  
+- 🧠 Actively improving **Data Structures & Algorithms**  
+- 🤖 Exploring **AI and real-world applications**  
+- 🛠️ Building projects to turn ideas into reality  
 
+---
+
+## 📚 Currently Learning
 - Data Structures & Algorithms  
 - Full Stack Development  
 - Python & AI Basics  
 
 ---
 
-## 📌 Goals
+## 🛠️ Tech Stack
 
-- Build impactful real-world projects  
-- Learn AI and integrate it into applications  
-- Get strong in DSA and problem solving  
-- Learn deployment and cloud basics  
-- Contribute to open source  
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode,eclipse,idea,matlab&perline=6" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monish-Murugavel&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monish-Murugavel&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Monish-Murugavel&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Monish-Murugavel&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Murugavel&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Murugavel&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Monish-Murugavel&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monish-Murugavel&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/(https://www.linkedin.com/in/monish-murugavel-25065937b/)
-- GitHub: https://github.com/Monish-Murugavel  
+<p align="left">
+<a href="https://www.linkedin.com/in/monish-murugavel-25065937b/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/Monish-Murugavel" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-
-I believe consistency beats talent. I’m building every day 🚀
-<!--
-**Monish-Murugavel/Monish-Murugavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 *Consistency beats talent — I’m building every single day 🚀*
