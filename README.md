@@ -1,87 +1,125 @@
+<!-- 🌊 HOLOGRAPHIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Monish%20Murugavel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:333399,100:00F7FF&height=250&section=header&text=Monish%20Murugavel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- ⚡ TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Learning+AI+%26+Full+Stack;Building+Projects+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+My+Future+in+Code;AI+%7C+Full+Stack+%7C+DSA;Consistency+is+my+Superpower;Welcome+to+my+Digital+Space+⚡" />
 </p>
 
+<!-- 🧠 IDENTITY TAGS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Consistency-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Goal-Software%20Engineer-00F7FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-AI%20%26%20DSA-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Builder-ff00cc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Consistency-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mode-Learning%20%2B%20Building-333399?style=for-the-badge"/>
 </p>
 
-<br>
+---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
+<!-- 👋 MINI VISUAL -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="110"/>
+</p>
 
-## 🚀 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🎯 Focused on becoming a strong developer through consistency  
-- 🧠 Improving Data Structures & Algorithms  
-- 🤖 Exploring AI and real-world applications  
-- 🛠️ Building projects to apply concepts  
+<p align="center">
+I’m on a mission to become a high-impact developer.<br>
+Learning deeply. Building consistently. Improving daily.<br><br>
+🧠 DSA | 🤖 AI | 🌐 Full Stack
+</p>
 
-<br>
+---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
+<!-- ⚡ SPLIT SECTION -->
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-## 📚 Currently Learning
-
+### 📚 Currently Learning
 - Data Structures & Algorithms  
 - Full Stack Development  
-- Python & AI Basics  
+- Python & AI  
 
-<br>
+</td>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
+<td width="50%" align="center">
 
-## 🛠️ Tech Stack
+### 🚀 Current Focus
+- Writing cleaner code  
+- Solving harder problems  
+- Building real projects  
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- 💎 TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github,vscode,pycharm,idea,eclipse,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=flat&logo=Mathworks&logoColor=white" />
-</p>
-
-<br>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monish-Murugavel&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Monish-Murugavel&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,linux" />
 </p>
 
-<br>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monish-Murugavel&theme=tokyo-night&hide_border=true" />
+  <img src="https://img.shields.io/badge/MATLAB-ff6f00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
 </p>
 
-<br>
+---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
-
-## 📫 Connect
+<!-- 📊 STATS (FIXED) -->
+<h2 align="center">📊 Stats</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/monish-murugavel-25065937b/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Monish-Murugavel&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=Monish-Murugavel&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- 📈 ACTIVITY -->
+<h2 align="center">📈 Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monish-Murugavel&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<!-- 🐍 SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<!-- 📫 CONNECT -->
+<h2 align="center">📫 Connect</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/monish-murugavel-25065937b/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://github.com/Monish-Murugavel" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
+&nbsp;&nbsp;
+<a href="https://github.com/Monish-Murugavel">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
+</p>
+
+---
+
+<!-- 🌊 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:333399,100:00F7FF&height=120&section=footer"/>
 </p>
