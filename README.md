@@ -15,70 +15,59 @@
   <img src="https://img.shields.io/badge/Mode-Learning%20%2B%20Building-333399?style=for-the-badge"/>
 </p>
 
----
+<br><br>
 
-<!-- 👋 MINI VISUAL -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="110"/>
-</p>
-
+<!-- 👨‍💻 ABOUT -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I’m on a mission to become a high-impact developer.<br>
-Learning deeply. Building consistently. Improving daily.<br><br>
-🧠 DSA | 🤖 AI | 🌐 Full Stack
+I’m working towards becoming a high-impact software developer.<br>
+Focused on learning deeply, building consistently, and improving every day.
 </p>
 
----
+<br>
 
-<!-- ⚡ SPLIT SECTION -->
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<p align="center">
+🧠 Improving DSA & problem solving &nbsp; • &nbsp;
+🤖 Exploring AI & real-world use &nbsp; • &nbsp;
+🛠️ Building practical projects
+</p>
 
-### 📚 Currently Learning
-- Data Structures & Algorithms  
-- Full Stack Development  
-- Python & AI  
+<br><br>
 
-</td>
+<!-- 🚀 GROWTH -->
+<h2 align="center">🚀 Growth</h2>
 
-<td width="50%" align="center">
+<p align="center">
+📚 <b>Currently Learning</b><br>
+Data Structures & Algorithms • Full Stack • Python & AI
+</p>
 
-### 🚀 Current Focus
-- Writing cleaner code  
-- Solving harder problems  
-- Building real projects  
+<br>
 
-</td>
-</tr>
-</table>
+<p align="center">
+🎯 <b>Current Focus</b><br>
+Cleaner code • Stronger logic • Real-world projects
+</p>
 
----
+<br><br>
 
 <!-- 💎 TECH STACK -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" /><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+  <img src="https://img.shields.io/badge/MATLAB-ff6f00?style=flat-square&logo=Mathworks&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,linux" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-ff6f00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
-</p>
-
----
-
-<!-- 📊 STATS (FIXED) -->
+<!-- 📊 STATS -->
 <h2 align="center">📊 Stats</h2>
 
 <p align="center">
@@ -86,7 +75,7 @@ Learning deeply. Building consistently. Improving daily.<br><br>
   <img width="48%" src="https://streak-stats.demolab.com?user=Monish-Murugavel&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<br><br>
 
 <!-- 📈 ACTIVITY -->
 <h2 align="center">📈 Activity</h2>
@@ -95,14 +84,20 @@ Learning deeply. Building consistently. Improving daily.<br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monish-Murugavel&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<br><br>
 
-<!-- 🐍 SNAKE -->
+<!-- ⚡ CURRENT STATE (REPLACES SNAKE) -->
+<h2 align="center">⚡ Current State</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+🧠 Learning → 💻 Building → 🔁 Improving
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</p>
+
+<br><br>
 
 <!-- 📫 CONNECT -->
 <h2 align="center">📫 Connect</h2>
@@ -111,13 +106,13 @@ Learning deeply. Building consistently. Improving daily.<br><br>
 <a href="https://www.linkedin.com/in/monish-murugavel-25065937b/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Monish-Murugavel">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
 
----
+<br>
 
 <!-- 🌊 FOOTER -->
 <p align="center">
