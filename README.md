@@ -1,19 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Monish+Murugavel;Aspiring+Software+Developer;Learning+AI+%26+Full+Stack;Building+Projects+Everyday+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Monish%20Murugavel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">💻 Computer Science Student | 🚀 Aspiring Developer | 🤖 Learning AI</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Learning+AI+%26+Full+Stack;Building+Projects+Everyday+🚀" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Consistency-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Software%20Engineer-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20DSA-purple?style=flat-square" />
+</p>
+
+<br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🚀 About Me
 
 - 🎯 Focused on becoming a strong developer through consistency  
-- 🧠 Improving **Data Structures & Algorithms**  
-- 🤖 Exploring **AI and real-world applications**  
+- 🧠 Improving Data Structures & Algorithms  
+- 🤖 Exploring AI and real-world applications  
 - 🛠️ Building projects to apply concepts  
 
----
+<br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
 
 ## 📚 Currently Learning
 
@@ -21,32 +33,23 @@
 - Full Stack Development  
 - Python & AI Basics  
 
----
+<br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github,vscode,pycharm,idea,eclipse,linux" />
 </p>
 
-### 🌐 Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=flat&logo=Mathworks&logoColor=white" />
 </p>
 
-### ⚙️ Tools & IDEs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,eclipse" />
-</p>
+<br>
 
-### 📊 Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white" />
-</p>
-
----
+<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
 
 ## 📊 GitHub Stats
 
@@ -58,29 +61,27 @@
   <img src="https://streak-stats.demolab.com?user=Monish-Murugavel&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
-## 📈 Contribution Graph
+<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
+
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monish-Murugavel&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<br>
 
-## 📫 Connect With Me
+<p align="center">━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━</p>
+
+## 📫 Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/monish-murugavel-25065937b/" target="blank">
+<a href="https://www.linkedin.com/in/monish-murugavel-25065937b/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://github.com/Monish-Murugavel" target="blank">
+<a href="https://github.com/Monish-Murugavel" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-
-💡 *Consistency beats talent — I’m building every single day 🚀*
